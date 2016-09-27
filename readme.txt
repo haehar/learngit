@@ -1,2 +1,3 @@
 Git ls a distribute version
 Git ls free software 
+Git has a mutable index called stage
