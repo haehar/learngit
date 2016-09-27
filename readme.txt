@@ -1,2 +1,2 @@
-Git ls a distribute version control system
+Git ls a distribute version
 Git ls free software 
